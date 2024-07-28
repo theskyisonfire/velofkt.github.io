@@ -10917,3 +10917,7 @@ footer.footer {
   padding-top: 4rem;
   padding-bottom: 4rem;
 }
+
+.bi-strava img {
+    margin-top: -0.25em;
+}
